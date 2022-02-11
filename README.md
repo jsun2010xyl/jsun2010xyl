@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsun2010xyl
-- 👀 I’m interested in robotics.
+- 👀 I’m interested in Android development.
 - 🌱 I’m currently working on LeetCode problems in Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: jsun2010@gmail.com
