@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jsun2010xyl
 - 👀 I’m interested in Android development.
-- 🌱 I’m currently working on T-Mobile ScamShield app.
+- 🌱 I’m currently working on a flutter plugin project.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: jsun2010@gmail.com
 
